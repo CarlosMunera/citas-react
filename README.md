@@ -1,4 +1,4 @@
-# Sistema de administració de citas veterinarias.
+# Sistema de administración de citas veterinarias.
 
 ![Vista Previa](public/vistaPrevia.png)
 ## Descripción del proyecto
